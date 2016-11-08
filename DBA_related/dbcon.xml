@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<values>
+<username>root</username>
+<pass>root</pass>
+<dbname>PPA_revisited</dbname>
+<dbhost>localhost</dbhost>
+</values>
